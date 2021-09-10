@@ -16,7 +16,7 @@ https://i.blackhat.com/eu-19/Thursday/eu-19-Zhang-New-Exploit-Technique-In-Java-
 
 https://conference.hitb.org/hitbsecconf2021sin/materials/D1T2%20-%20Make%20JDBC%20Attacks%20Brilliant%20Again%20-%20Xu%20Yuanzhen%20&%20Chen%20Hongkun.pdf
 
-学习记录文章：https://su18.org/posts/jdbc-connection-url-attack/
+学习记录文章：https://su18.org/post/jdbc-connection-url-attack/
 
 文章是对上面两篇演讲的学习和记录，在漏洞复现调试基础上查看、分析了一些关键的触发点和 sink 点，并在分享者视角之外提出了一些自己的看法。
 
